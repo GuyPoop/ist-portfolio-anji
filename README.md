@@ -1,1 +1,12 @@
-# ist-portfolio-anji
+# Anji Relova's IST Portfolio
+
+[Link to my Portfolio](https://github.com/GuyPoop/ist-portfolio-anji)
+
+This is a repository to host different projects and exercises from my IST course.
+
+Here are the steps to using git to add new content.
+```
+git add .
+git commit -m "Commit message"
+git push
+```
